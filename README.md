@@ -172,16 +172,6 @@ Developed an IoT system enabling remote monitoring and control of agricultural i
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JadFalaq&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JadFalaq&layout=compact&hide_border=true)
-
-*My work spans applied AI, data engineering, automation, and production-oriented software systems.*
-
----
-
 ## 🎓 Education
 
 **ENSIAS — École Nationale Supérieure d'Informatique et d'Analyse des Systèmes**
